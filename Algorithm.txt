@@ -1,0 +1,11 @@
+ 1.Prompt the user to enter their weight in kilograms (kg) and height in meters (m)
+ store them in varibles.
+ 2.calculat the BMI using the fuormal BMI = weight_kg / (height_m * height_m)
+ 3. Display the calculated BMI to the user.
+4. Check the value of the BMI to determine the user's weight category.
+   a. If bmi < 18.5, display "Underweight".
+   b. If bmi is between 18.5 and 24.9, display "Normal Weight".
+   c. If bmi is between 25.0 and 29.9, display "Overweight".
+   d. If bmi is 30.0 or above, display "Obese".
+5. End the program.
+ 
